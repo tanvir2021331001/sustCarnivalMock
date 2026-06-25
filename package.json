@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/tanvir2021331001/sustCarnivalMock#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "@google/genai": "^2.10.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "openai": "^6.45.0"
   }
 }
